@@ -64,6 +64,9 @@ python -m http.server 8000
 
 - 站点地址：<https://songjunduo.github.io/>
 - 源码仓库：<https://github.com/songjunduo/songjunduo.github.io>
+- 发布方式：GitHub Pages（legacy 构建，直接发布 `main` 分支根目录）
+
+修改文件后推送到 `main` 分支，Pages 会自动重新构建，通常一分钟内生效。
 
 ## 已实现的功能
 
